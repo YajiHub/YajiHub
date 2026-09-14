@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YajiHub
-- 👀 I’m currently interested in Software Developing and Cloud Architecture.
+- 👀 I’m currently interested in Software Development and Cloud Architecture.
 - 🌱 I’m currently learning in an Academic Institution to Complete my Degree.
 - 💞️ I’m looking to collaborate on many different projects that would enhance my skills and knowledge.
 - 📫 How to reach me ...
