@@ -20,13 +20,13 @@ curl -s https://raw.githubusercontent.com/YajiHub/yaji-dev/main/contact.json
 
 ### 🚀 Featured Engineering Projects
 
-#### 🏢 [BuildPro: Enterprise POS & Inventory System](https://github.com/zimmini) *(Contributor)*
+#### 🏢 [BuildPro: Enterprise POS & Inventory System](https://github.com/ziminni/qb_hardwarestore) *(Contributor)*
 > *Decoupled, containerized enterprise POS serving as financial source of truth for dual-business operations.*
 - **FIFO Inventory Batching:** Drains stock strictly by arrival cost layers in PostgreSQL for Cost of Goods Sold (COGS) reports.
 - **Dynamic Multi-Tier UOM:** Handles automated piece/box/sack conversions across purchasing, inventory depletion, and retail sales.
 - **Decoupled Monorepo:** Architected with Docker to isolate Inventory, POS, and Collectibles domains.
 
-#### 🏗️ [BuildPro: Construction Project Management System (CPMS)](https://github.com/ziminni/qb_hardwarestore) *(Contributor)*
+#### 🏗️ [BuildPro: Construction Project Management System (CPMS)](https://github.com/YajiHub) *(Contributor)*
 > *Project management system for managing construction projects.*
 - **Weighted WBS Progress Billing:** Computes milestone completion percentages to automate client progress billings.
 - **Forced Site Audit:** Enforces mandatory audits before site managers can issue material requisitions.
