@@ -1,12 +1,69 @@
-- 👋 Hi, I’m @YajiHub
-- 👀 I’m currently interested in Software Development and Cloud Architecture.
-- 🌱 I’m currently learning in an Academic Institution to Complete my Degree.
-- 💞️ I’m looking to collaborate on many different projects that would enhance my skills and knowledge.
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Still a student...
+# Hi, I'm Jopur Jay Montecillo 👋
 
-<!---
-YajiHub/YajiHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+> whoami
+jopur-jay :: 4th-year IT student & software developer
+```
+
+I build **distributed enterprise systems**, **full-stack web applications**, and **AI integrated mobile apps**. Currently serving as a Capstone Backend Dev for the **BuildPro Ecosystem**—an enterprise suite bridging retail hardware POS/inventory operations with construction project management.
+
+---
+
+### ⚡ Quick Telemetry
+
+```bash
+# Fetch my contact card & engineering profile directly in your terminal:
+curl -s https://raw.githubusercontent.com/YajiHub/portfolio/main/contact.json
+```
+
+---
+
+### 🚀 Featured Engineering Projects
+
+#### 🏢 [BuildPro: Enterprise POS & Inventory System](https://github.com/YajiHub) *(Contributor)*
+> *Decoupled, containerized enterprise POS serving as financial source of truth for dual-business operations.*
+- **FIFO Inventory Batching:** Drains stock strictly by arrival cost layers in PostgreSQL for Cost of Goods Sold (COGS) reports.
+- **Dynamic Multi-Tier UOM:** Handles automated piece/box/sack conversions across purchasing, inventory depletion, and retail sales.
+- **Decoupled Monorepo:** Architected with Docker to isolate Inventory, POS, and Collectibles domains.
+
+#### 🏗️ [BuildPro: Construction Project Management System (CPMS)](https://github.com/YajiHub) *(Contributor)*
+> *Project management system for managing construction projects.*
+- **Weighted WBS Progress Billing:** Computes milestone completion percentages to automate client progress billings.
+- **Forced Site Audit:** Enforces mandatory audits before site managers can issue material requisitions.
+- **Secure Material Fulfillment:** Generates cryptographically signed UUID QR tokens for site foremen to redeem materials at the POS.
+
+#### 🥗 [EatWise: AI Nutrition & Calorie Tracker](https://github.com/YajiHub)
+> *Flutter mobile application with multimodal AI Integration.*
+- **3-Way AI Logging:** Instant macro estimations from meal images via Gemini Vision, natural language prompts, or barcode lookup.
+- **Multi-LLM Fallback Cascade:** Cascades requests across Google Gemini → Groq → OpenRouter with defensive JSON schema validation.
+- **Offline Reliability:** Local SQLite storage with Supabase cloud synchronization.
+
+---
+
+### 🛠️ Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Dart` `SQL (PostgreSQL)` `JavaScript` `HTML5 / CSS3` `PHP` |
+| **Frameworks & Mobile** | `Flutter` `Riverpod` `Django` `Django REST Framework (DRF)` `Laravel` |
+| **Databases & Storage** | `PostgreSQL` `SQLite` `Supabase` |
+| **DevOps & Architecture** | `Docker` `Domain-Driven Design (DDD)` `REST APIs & Swagger` `Git / GitHub` `Vercel` |
+| **AI Integration** | `Google Gemini API` `Multimodal Vision` `Groq` `OpenRouter` |
+
+---
+
+### 📊 GitHub Activity & Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YajiHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=10b981&icon_color=38bdf8&text_color=94a3b8" alt="YajiHub's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YajiHub&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=10b981&text_color=94a3b8" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+- **Portfolio:** [yaji.dev](https://github.com/YajiHub)
+- **Email:** [jopurjay23@gmail.com](mailto:jopurjay23@gmail.com)
+- **Location:** Quezon, Bukidnon, Philippines (UTC+8)
+- **Status:** Open for Junior Software Developer, Full-Stack Developer, and Flutter Developer Internship roles
